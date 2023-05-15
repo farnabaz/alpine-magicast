@@ -1,3 +1,9 @@
 import { defineTheme } from 'pinceau'
 
-export default defineTheme({})
+export default defineTheme({
+  color: {
+    primary: [ {
+      value: "#d91aff"
+    }]
+  }
+})
