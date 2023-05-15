@@ -1,3 +1,13 @@
 import { defineTheme } from 'pinceau'
 
-export default defineTheme({})
+export default defineTheme({
+  alpine: {
+    body: {
+      color: {
+        value: {
+          dark: "red"
+        }
+      }
+    }
+  }
+})
