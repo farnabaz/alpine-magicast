@@ -9,5 +9,19 @@ export default defineTheme({
         }
       }
     }
+  },
+
+  color: {
+    green: {
+      100: {
+        value: "#5d746a"
+      }
+    },
+
+    primary: {
+      500: {
+        value: "#1aff34"
+      }
+    }
   }
 })
