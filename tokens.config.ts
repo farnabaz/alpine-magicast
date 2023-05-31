@@ -21,7 +21,7 @@ export default defineTheme({
     primary: {
       500: {
         value: "#1aff34"
-      }
+      },
       100: "#5d746a"
     }
   }
